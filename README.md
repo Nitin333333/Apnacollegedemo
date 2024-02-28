@@ -1,3 +1,3 @@
 # Apnacollegedemo
 This is my first repository
-Author nitin borkar
+Author-nitin borkar
